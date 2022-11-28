@@ -9,3 +9,4 @@
 | 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | [C++](./algorithms/907.sum-of-subarray-minimums.cpp) |
 | 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [C++](./algorithms/1235.maximum-profit-in-job-scheduling.cpp) |
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | [C++](./algorithms/1926.nearest-exit-from-entrance-in-maze.cpp) |
+| 2225 | [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | [C++](./algorithms/2225.find-players-with-zero-or-one-losses.cpp) |
