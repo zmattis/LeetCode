@@ -9,6 +9,7 @@
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [C++](./algorithms/380.insert-delete-getrandom-o1.cpp) |
 | 446 | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [C++](./algorithms/446.arithmetic-slices-ii-subsequence.cpp) |
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [C++](./algorithms/451.sort-characters-by-frequency.cpp) |
+| 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [C++](./algorithms/872.leaf-similar-trees.cpp) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [C++](./algorithms/876.middle-of-the-linked-list.cpp) |
 | 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | [C++](./algorithms/907.sum-of-subarray-minimums.cpp) |
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [C++](./algorithms/938.range-sum-of-bst.cpp) |
