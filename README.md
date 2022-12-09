@@ -13,6 +13,7 @@
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [C++](./algorithms/876.middle-of-the-linked-list.cpp) |
 | 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | [C++](./algorithms/907.sum-of-subarray-minimums.cpp) |
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [C++](./algorithms/938.range-sum-of-bst.cpp) |
+| 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [C++](./algorithms/1026.maximum-difference-between-node-and-ancestor.cpp) |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [C++](./algorithms/1207.unique-number-of-occurrences.cpp) |
 | 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [C++](./algorithms/1235.maximum-profit-in-job-scheduling.cpp) |
 | 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [C++](./algorithms/1657.determine-if-two-strings-are-close.cpp) |
