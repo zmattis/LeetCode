@@ -4,6 +4,7 @@
 |---| ----- | -------- |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [C++](./algorithms/36.valid-sudoku.cpp) |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [C++](./algorithms/79.word-search.cpp) |
+| 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [C++](./algorithms/124.binary-tree-maximum-path-sum.cpp) |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [C++](./algorithms/279.perfect-squares.cpp) |
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [C++](./algorithms/328.odd-even-linked-list.cpp) |
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [C++](./algorithms/380.insert-delete-getrandom-o1.cpp) |
