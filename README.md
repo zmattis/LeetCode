@@ -3,6 +3,7 @@
 | # | Title | Solution |
 |---| ----- | -------- |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [C++](./algorithms/36.valid-sudoku.cpp) |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C++](./algorithms/70.climbing-stairs.cpp) |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [C++](./algorithms/79.word-search.cpp) |
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [C++](./algorithms/124.binary-tree-maximum-path-sum.cpp) |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [C++](./algorithms/279.perfect-squares.cpp) |
