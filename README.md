@@ -18,6 +18,7 @@
 | 931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [C++](./algorithms/931.minimum-falling-path-sum.cpp) |
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [C++](./algorithms/938.range-sum-of-bst.cpp) |
 | 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [C++](./algorithms/1026.maximum-difference-between-node-and-ancestor.cpp) |
+| 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [C++](./algorithms/1143.longest-common-subsequence.cpp) |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [C++](./algorithms/1207.unique-number-of-occurrences.cpp) |
 | 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [C++](./algorithms/1235.maximum-profit-in-job-scheduling.cpp) |
 | 1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | [C++](./algorithms/1339.maximum-product-of-splitted-binary-tree.cpp) |
