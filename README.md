@@ -18,6 +18,7 @@
 | 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [C++](./algorithms/841.keys-and-rooms.cpp) |
 | 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [C++](./algorithms/872.leaf-similar-trees.cpp) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [C++](./algorithms/876.middle-of-the-linked-list.cpp) |
+| 886 | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | [C++](./algorithms/886.possible-bipartition.cpp) |
 | 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | [C++](./algorithms/907.sum-of-subarray-minimums.cpp) |
 | 931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [C++](./algorithms/931.minimum-falling-path-sum.cpp) |
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [C++](./algorithms/938.range-sum-of-bst.cpp) |
