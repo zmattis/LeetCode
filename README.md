@@ -15,6 +15,7 @@
 | 446 | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [C++](./algorithms/446.arithmetic-slices-ii-subsequence.cpp) |
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [C++](./algorithms/451.sort-characters-by-frequency.cpp) |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [C++](./algorithms/739.daily-temperatures.cpp) |
+| 834 | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) | [C++](./algorithms/834.sum-of-distances-in-tree.cpp) |
 | 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [C++](./algorithms/841.keys-and-rooms.cpp) |
 | 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [C++](./algorithms/872.leaf-similar-trees.cpp) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [C++](./algorithms/876.middle-of-the-linked-list.cpp) |
