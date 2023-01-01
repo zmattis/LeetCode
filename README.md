@@ -10,6 +10,7 @@
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [C++](./algorithms/198.house-robber.cpp) |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [C++](./algorithms/232.implement-queue-using-stacks.cpp) |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [C++](./algorithms/279.perfect-squares.cpp) |
+| 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [C++](./algorithms/290.word-pattern.cpp) |
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [C++](./algorithms/328.odd-even-linked-list.cpp) |
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [C++](./algorithms/380.insert-delete-getrandom-o1.cpp) |
 | 446 | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [C++](./algorithms/446.arithmetic-slices-ii-subsequence.cpp) |
