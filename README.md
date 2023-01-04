@@ -36,4 +36,5 @@
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | [C++](./algorithms/1926.nearest-exit-from-entrance-in-maze.cpp) |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [C++](./algorithms/1971.find-if-path-exists-in-graph.cpp) |
 | 2225 | [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | [C++](./algorithms/2225.find-players-with-zero-or-one-losses.cpp) |
+| 2244 | [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/) | [C++](./algorithms/2244.minimum-rounds-to-complete-all-tasks.cpp) |
 | 2256 | [Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/) | [C++](./algorithms/2256.minimum-average-difference.cpp) |
