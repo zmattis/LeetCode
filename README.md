@@ -15,6 +15,7 @@
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [C++](./algorithms/380.insert-delete-getrandom-o1.cpp) |
 | 446 | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [C++](./algorithms/446.arithmetic-slices-ii-subsequence.cpp) |
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [C++](./algorithms/451.sort-characters-by-frequency.cpp) |
+| 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [C++](./algorithms/452.minimum-number-of-arrows-to-burst-balloons.cpp) |
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [C++](./algorithms/520.detect-capital.cpp) |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [C++](./algorithms/739.daily-temperatures.cpp) |
 | 834 | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) | [C++](./algorithms/834.sum-of-distances-in-tree.cpp) |
