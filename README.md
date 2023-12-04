@@ -44,3 +44,4 @@
 | 2225 | [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | [C++](./algorithms/cpp/2225.find-players-with-zero-or-one-losses.cpp) |
 | 2244 | [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/) | [C++](./algorithms/cpp/2244.minimum-rounds-to-complete-all-tasks.cpp) |
 | 2256 | [Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/) | [C++](./algorithms/cpp/2256.minimum-average-difference.cpp) |
+| 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | [Python](./algorithms/python/2264.largest-3-same-digit-number-in-string.py) |
