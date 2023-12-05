@@ -37,6 +37,7 @@
 | 1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | [C++](./algorithms/cpp/1339.maximum-product-of-splitted-binary-tree.cpp) |
 | 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [C++](./algorithms/cpp/1657.determine-if-two-strings-are-close.cpp) |
 | 1662 | [Determine if Two Strings Are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [Python](./algorithms/python/1662.check-if-two-string-arrays-are-equivalent.py) |
+| 1688 | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/) | [Python](./algorithms/python/1688.count-of-matches-in-tournament.py) |
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [C++](./algorithms/cpp/1704.determine-if-string-halves-are-alike.cpp) |
 | 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | [C++](./algorithms/cpp/1833.maximum-ice-cream-bars.cpp) |
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | [C++](./algorithms/cpp/1926.nearest-exit-from-entrance-in-maze.cpp) |
