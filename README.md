@@ -39,6 +39,7 @@
 | 1662 | [Determine if Two Strings Are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [Python](./algorithms/python/1662.check-if-two-string-arrays-are-equivalent.py) |
 | 1688 | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/) | [Python](./algorithms/python/1688.count-of-matches-in-tournament.py) |
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [C++](./algorithms/cpp/1704.determine-if-string-halves-are-alike.cpp) |
+| 1716 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | [Python](./algorithms/python/1716.calculate-money-in-leetcode-bank.py) |
 | 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | [C++](./algorithms/cpp/1833.maximum-ice-cream-bars.cpp) |
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | [C++](./algorithms/cpp/1926.nearest-exit-from-entrance-in-maze.cpp) |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [C++](./algorithms/cpp/1971.find-if-path-exists-in-graph.cpp) |
