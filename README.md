@@ -18,6 +18,7 @@
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [C++](./algorithms/cpp/451.sort-characters-by-frequency.cpp) |
 | 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [C++](./algorithms/cpp/452.minimum-number-of-arrows-to-burst-balloons.cpp) |
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [C++](./algorithms/cpp/520.detect-capital.cpp) |
+| 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [Python](./algorithms/python/606.construct-string-from-binary-tree.py) |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [C++](./algorithms/cpp/739.daily-temperatures.cpp) |
 | 834 | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) | [C++](./algorithms/cpp/834.sum-of-distances-in-tree.cpp) |
 | 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [C++](./algorithms/cpp/841.keys-and-rooms.cpp) |
