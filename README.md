@@ -1,7 +1,7 @@
 # LeetCode
 
 | # | Title | Solution |
-|---| ----- | -------- |
+|--:| ----- | -------- |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [C++](./algorithms/cpp/36.valid-sudoku.cpp) |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Python](./algorithms/python/41.first-missing-positive.py) |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C++](./algorithms/cpp/70.climbing-stairs.cpp) |
@@ -19,6 +19,7 @@
 | 446 | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [C++](./algorithms/cpp/446.arithmetic-slices-ii-subsequence.cpp) |
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [C++](./algorithms/cpp/451.sort-characters-by-frequency.cpp) |
 | 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [C++](./algorithms/cpp/452.minimum-number-of-arrows-to-burst-balloons.cpp) |
+| 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Python](./algorithms/python/513.find-bottom-left-tree-value.py) |
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [C++](./algorithms/cpp/520.detect-capital.cpp) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [Python](./algorithms/python/606.construct-string-from-binary-tree.py) |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [C++](./algorithms/cpp/739.daily-temperatures.cpp) |
