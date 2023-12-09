@@ -5,6 +5,7 @@
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [C++](./algorithms/cpp/36.valid-sudoku.cpp) |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C++](./algorithms/cpp/70.climbing-stairs.cpp) |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [C++](./algorithms/cpp/79.word-search.cpp) |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./algorithms/python/94.binary-tree-inorder-traversal.py) |
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [C++](./algorithms/cpp/124.binary-tree-maximum-path-sum.cpp) |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [C++](./algorithms/cpp/134.gas-station.cpp) |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [C++](./algorithms/cpp/150.evaluate-reverse-polish-notation.cpp) |
