@@ -3,6 +3,7 @@
 | # | Title | Solution |
 |---| ----- | -------- |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [C++](./algorithms/cpp/36.valid-sudoku.cpp) |
+| 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Python](./algorithms/python/41.first-missing-positive.py) |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C++](./algorithms/cpp/70.climbing-stairs.cpp) |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [C++](./algorithms/cpp/79.word-search.cpp) |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./algorithms/python/94.binary-tree-inorder-traversal.py) |
