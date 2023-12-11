@@ -39,6 +39,7 @@
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [C++](./algorithms/cpp/1207.unique-number-of-occurrences.cpp) |
 | 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [C++](./algorithms/cpp/1235.maximum-profit-in-job-scheduling.cpp) |
 | 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | [Python](./algorithms/python/1266.minimum-time-visiting-all-points.py) |
+| 1287 | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | [Python](./algorithms/python/1287.element-appearing-more-than-25-in-sorted-array.py) |
 | 1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | [C++](./algorithms/cpp/1339.maximum-product-of-splitted-binary-tree.cpp) |
 | 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [C++](./algorithms/cpp/1657.determine-if-two-strings-are-close.cpp) |
 | 1662 | [Determine if Two Strings Are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [Python](./algorithms/python/1662.check-if-two-string-arrays-are-equivalent.py) |
