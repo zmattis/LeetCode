@@ -41,6 +41,7 @@
 | 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | [Python](./algorithms/python/1266.minimum-time-visiting-all-points.py) |
 | 1287 | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | [Python](./algorithms/python/1287.element-appearing-more-than-25-in-sorted-array.py) |
 | 1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | [C++](./algorithms/cpp/1339.maximum-product-of-splitted-binary-tree.cpp) |
+| 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Python](./algorithms/python/1464.maximum-product-of-two-elements-in-an-array.py) |
 | 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [C++](./algorithms/cpp/1657.determine-if-two-strings-are-close.cpp) |
 | 1662 | [Determine if Two Strings Are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [Python](./algorithms/python/1662.check-if-two-string-arrays-are-equivalent.py) |
 | 1688 | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/) | [Python](./algorithms/python/1688.count-of-matches-in-tournament.py) |
