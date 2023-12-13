@@ -29,6 +29,7 @@
 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [Python](./algorithms/python/867.transpose-matrix.py) |
 | 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [C++](./algorithms/cpp/872.leaf-similar-trees.cpp) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [C++](./algorithms/cpp/876.middle-of-the-linked-list.cpp) |
+| 883 | [Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/) | [C++](./algorithms/cpp/883.projection-area-of-3d-shapes.cpp) |
 | 886 | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | [C++](./algorithms/cpp/886.possible-bipartition.cpp) |
 | 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | [C++](./algorithms/cpp/907.sum-of-subarray-minimums.cpp) |
 | 931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [C++](./algorithms/cpp/931.minimum-falling-path-sum.cpp) |
