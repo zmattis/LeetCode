@@ -12,6 +12,7 @@
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [C++](./algorithms/cpp/150.evaluate-reverse-polish-notation.cpp) |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [C++](./algorithms/cpp/198.house-robber.cpp) |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [C++](./algorithms/cpp/232.implement-queue-using-stacks.cpp) |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](./algorithms/python/242.valid-anagram.py) |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [C++](./algorithms/cpp/279.perfect-squares.cpp) |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [C++](./algorithms/cpp/290.word-pattern.cpp) |
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [C++](./algorithms/cpp/328.odd-even-linked-list.cpp) |
