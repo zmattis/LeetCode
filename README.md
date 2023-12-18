@@ -54,6 +54,7 @@
 | 1716 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | [Python](./algorithms/python/1716.calculate-money-in-leetcode-bank.py) |
 | 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | [C++](./algorithms/cpp/1833.maximum-ice-cream-bars.cpp) |
 | 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | [Python](./algorithms/python/1903.largest-odd-number-in-string.py) |
+| 1913 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | [Python](./algorithms/python/1913.maximum-product-difference-between-two-pairs.py) |
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | [C++](./algorithms/cpp/1926.nearest-exit-from-entrance-in-maze.cpp) |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [C++](./algorithms/cpp/1971.find-if-path-exists-in-graph.cpp) |
 | 2225 | [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | [C++](./algorithms/cpp/2225.find-players-with-zero-or-one-losses.cpp) |
