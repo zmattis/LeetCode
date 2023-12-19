@@ -63,4 +63,5 @@
 | 2256 | [Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/) | [C++](./algorithms/cpp/2256.minimum-average-difference.cpp) |
 | 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | [Python](./algorithms/python/2264.largest-3-same-digit-number-in-string.py) |
 | 2353 | [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) | [C++](./algorithms/cpp/2353.design-a-food-rating-system.cpp) |
+| 2363 | [Merge Similar Items](https://leetcode.com/problems/merge-similar-items/) | [Python](./algorithms/python/2363.merge-similar-items.py) |
 | 2482 | [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | [Python](./algorithms/python/2482.difference-between-ones-and-zeros-in-row-and-column.py) |
