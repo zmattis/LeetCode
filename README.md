@@ -65,3 +65,4 @@
 | 2353 | [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) | [C++](./algorithms/cpp/2353.design-a-food-rating-system.cpp) |
 | 2363 | [Merge Similar Items](https://leetcode.com/problems/merge-similar-items/) | [Python](./algorithms/python/2363.merge-similar-items.py) |
 | 2482 | [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | [Python](./algorithms/python/2482.difference-between-ones-and-zeros-in-row-and-column.py) |
+| 2706 | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) | [Python](./algorithms/python/2706.buy-two-chocolates.py) |
