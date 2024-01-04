@@ -72,3 +72,4 @@
 | 2125 | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | [Python](./algorithms/python/2125.number-of-laser-beams-in-a-bank.py) |
 | 2610 | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | [Python](./algorithms/python/2610.convert-an-array-into-a-2d-array-with-conditions.py) |
 | 2706 | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) | [Python](./algorithms/python/2706.buy-two-chocolates.py) |
+| 2870 | [Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/) | [Python](./algorithms/python/2870.minimum-number-of-operations-to-make-array-empty.py) |
