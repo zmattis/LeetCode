@@ -44,7 +44,7 @@
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [C++](./algorithms/cpp/1143.longest-common-subsequence.cpp) |
 | 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [Python](./algorithms/python/1160.find-words-that-can-be-formed-by-characters.py) |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [C++](./algorithms/cpp/1207.unique-number-of-occurrences.cpp) |
-| 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [C++](./algorithms/cpp/1235.maximum-profit-in-job-scheduling.cpp) |
+| 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [C++](./algorithms/cpp/1235.maximum-profit-in-job-scheduling.cpp), [Python](./algorithms/python/1235.maximum-profit-in-job-scheduling.py) |
 | 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | [Python](./algorithms/python/1266.minimum-time-visiting-all-points.py) |
 | 1287 | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | [Python](./algorithms/python/1287.element-appearing-more-than-25-in-sorted-array.py) |
 | 1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | [C++](./algorithms/cpp/1339.maximum-product-of-splitted-binary-tree.cpp) |
