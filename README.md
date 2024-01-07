@@ -19,7 +19,7 @@
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [C++](./algorithms/cpp/328.odd-even-linked-list.cpp) |
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [C++](./algorithms/cpp/380.insert-delete-getrandom-o1.cpp) |
 | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [C++](./algorithms/cpp/435.non-overlapping-intervals.cpp) |
-| 446 | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [C++](./algorithms/cpp/446.arithmetic-slices-ii-subsequence.cpp) |
+| 446 | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [C++](./algorithms/cpp/446.arithmetic-slices-ii-subsequence.cpp), [Python](./algorithms/python/446.arithmetic-slices-ii-subsequence.py) |
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [C++](./algorithms/cpp/451.sort-characters-by-frequency.cpp) |
 | 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [C++](./algorithms/cpp/452.minimum-number-of-arrows-to-burst-balloons.cpp) |
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Python](./algorithms/python/455.assign-cookies.py) |
