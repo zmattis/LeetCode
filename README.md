@@ -32,7 +32,7 @@
 | 834 | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) | [C++](./algorithms/cpp/834.sum-of-distances-in-tree.cpp) |
 | 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [C++](./algorithms/cpp/841.keys-and-rooms.cpp) |
 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [Python](./algorithms/python/867.transpose-matrix.py) |
-| 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [C++](./algorithms/cpp/872.leaf-similar-trees.cpp) |
+| 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [C++](./algorithms/cpp/872.leaf-similar-trees.cpp), [Python](./algorithms/python/872.leaf-similar-trees.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [C++](./algorithms/cpp/876.middle-of-the-linked-list.cpp) |
 | 883 | [Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/) | [C++](./algorithms/cpp/883.projection-area-of-3d-shapes.cpp) |
 | 886 | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | [C++](./algorithms/cpp/886.possible-bipartition.cpp) |
