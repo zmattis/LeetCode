@@ -15,7 +15,7 @@
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](./algorithms/python/242.valid-anagram.py) |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [C++](./algorithms/cpp/279.perfect-squares.cpp) |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [C++](./algorithms/cpp/290.word-pattern.cpp) |
-| 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python](./algorithms/python/300.longest-increasing-subsequence.py) |
+| 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [C++](./algorithms/cpp/300.longest-increasing-subsequence.cpp), [Python](./algorithms/python/300.longest-increasing-subsequence.py) |
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [C++](./algorithms/cpp/328.odd-even-linked-list.cpp) |
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [C++](./algorithms/cpp/380.insert-delete-getrandom-o1.cpp) |
 | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [C++](./algorithms/cpp/435.non-overlapping-intervals.cpp) |
