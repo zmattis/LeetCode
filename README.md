@@ -64,7 +64,7 @@
 | 1913 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | [Python](./algorithms/python/1913.maximum-product-difference-between-two-pairs.py) |
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | [C++](./algorithms/cpp/1926.nearest-exit-from-entrance-in-maze.cpp) |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [C++](./algorithms/cpp/1971.find-if-path-exists-in-graph.cpp) |
-| 2225 | [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | [C++](./algorithms/cpp/2225.find-players-with-zero-or-one-losses.cpp) |
+| 2225 | [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | [C++](./algorithms/cpp/2225.find-players-with-zero-or-one-losses.cpp), [Python](./algorithms/python/2225.find-players-with-zero-or-one-losses.py) |
 | 2244 | [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/) | [C++](./algorithms/cpp/2244.minimum-rounds-to-complete-all-tasks.cpp) |
 | 2256 | [Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/) | [C++](./algorithms/cpp/2256.minimum-average-difference.cpp) |
 | 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | [Python](./algorithms/python/2264.largest-3-same-digit-number-in-string.py) |
