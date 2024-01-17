@@ -17,7 +17,7 @@
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [C++](./algorithms/cpp/290.word-pattern.cpp) |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [C++](./algorithms/cpp/300.longest-increasing-subsequence.cpp), [Python](./algorithms/python/300.longest-increasing-subsequence.py) |
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [C++](./algorithms/cpp/328.odd-even-linked-list.cpp) |
-| 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [C++](./algorithms/cpp/380.insert-delete-getrandom-o1.cpp) |
+| 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [C++](./algorithms/cpp/380.insert-delete-getrandom-o1.cpp), [Python](./algorithms/python/380.insert-delete-getrandom-o1.py) |
 | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [C++](./algorithms/cpp/435.non-overlapping-intervals.cpp) |
 | 446 | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [C++](./algorithms/cpp/446.arithmetic-slices-ii-subsequence.cpp), [Python](./algorithms/python/446.arithmetic-slices-ii-subsequence.py) |
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [C++](./algorithms/cpp/451.sort-characters-by-frequency.cpp) |
