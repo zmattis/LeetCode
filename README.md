@@ -4,7 +4,7 @@
 |--:| ----- | -------- |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [C++](./algorithms/cpp/36.valid-sudoku.cpp) |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Python](./algorithms/python/41.first-missing-positive.py) |
-| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C++](./algorithms/cpp/70.climbing-stairs.cpp) |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C++](./algorithms/cpp/70.climbing-stairs.cpp), [Python](./algorithms/python/70.climbing-stairs.py) |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [C++](./algorithms/cpp/79.word-search.cpp) |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./algorithms/python/94.binary-tree-inorder-traversal.py) |
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [C++](./algorithms/cpp/124.binary-tree-maximum-path-sum.cpp) |
