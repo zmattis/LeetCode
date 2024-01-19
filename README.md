@@ -37,7 +37,7 @@
 | 883 | [Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/) | [C++](./algorithms/cpp/883.projection-area-of-3d-shapes.cpp) |
 | 886 | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | [C++](./algorithms/cpp/886.possible-bipartition.cpp) |
 | 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | [C++](./algorithms/cpp/907.sum-of-subarray-minimums.cpp) |
-| 931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [C++](./algorithms/cpp/931.minimum-falling-path-sum.cpp) |
+| 931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [C++](./algorithms/cpp/931.minimum-falling-path-sum.cpp), [Python](./algorithms/python/931.minimum-falling-path-sum.py) |
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [C++](./algorithms/cpp/938.range-sum-of-bst.cpp), [Python](./algorithms/python/938.range-sum-of-bst.py) |
 | 944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [C++](./algorithms/cpp/944.delete-columns-to-make-sorted.cpp) |
 | 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [C++](./algorithms/cpp/1026.maximum-difference-between-node-and-ancestor.cpp), [Python](./algorithms/python/1026.maximum-difference-between-node-and-ancestor.py) |
