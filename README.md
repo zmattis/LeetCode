@@ -9,6 +9,7 @@
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./algorithms/python/94.binary-tree-inorder-traversal.py) |
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [C++](./algorithms/cpp/124.binary-tree-maximum-path-sum.cpp) |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [C++](./algorithms/cpp/134.gas-station.cpp) |
+| 139 | [Word Break](https://leetcode.com/problems/word-break/) | [Python](./algorithms/python/139.word-break.py) |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [C++](./algorithms/cpp/150.evaluate-reverse-polish-notation.cpp) |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [C++](./algorithms/cpp/198.house-robber.cpp) |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [C++](./algorithms/cpp/232.implement-queue-using-stacks.cpp) |
