@@ -11,7 +11,7 @@
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [C++](./algorithms/cpp/134.gas-station.cpp) |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/) | [Python](./algorithms/python/139.word-break.py) |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [C++](./algorithms/cpp/150.evaluate-reverse-polish-notation.cpp) |
-| 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [C++](./algorithms/cpp/198.house-robber.cpp) |
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [C++](./algorithms/cpp/198.house-robber.cpp), [Python](./algorithms/python/198.house-robber.py) |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [C++](./algorithms/cpp/232.implement-queue-using-stacks.cpp) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](./algorithms/python/242.valid-anagram.py) |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [C++](./algorithms/cpp/279.perfect-squares.cpp) |
