@@ -55,6 +55,7 @@
 | 1347 | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | [C++](./algorithms/cpp/1347.minimum-number-of-steps-to-make-two-strings-anagram.cpp), [Python](./algorithms/python/1347.minimum-number-of-steps-to-make-two-strings-anagram.py) |
 | 1422 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Python](./algorithms/python/1422.maximum-score-after-splitting-a-string.py) |
 | 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | [C++](./algorithms/cpp/1436.destination-city.cpp) |
+| 1457 | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | [Python](./algorithms/python/1457.pseudo-palindromic-paths-in-a-binary-tree.py) |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Python](./algorithms/python/1464.maximum-product-of-two-elements-in-an-array.py) |
 | 1582 | [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | [Python](./algorithms/python/1582.special-positions-in-a-binary-matrix.py) |
 | 1637 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | [Python](./algorithms/python/1637.widest-vertical-area-between-two-points-containing-no-points.py) |
